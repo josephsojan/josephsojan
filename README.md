@@ -1,97 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C7744&height=160&section=header&text=Joseph%20Sojan&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=17&animation=fadeIn"/>
+# Joseph Sojan
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Build+to+Innovate;Systems+that+work%2C+not+just+run;Curious+by+default&font=JetBrains+Mono&size=20&pause=1800&color=2ECC71&center=true&vCenter=true&width=480&height=45&separator=%20"/>
+### BCA Graduate | MCA Student | Web Developer | C Programmer | OpenCV Enthusiast
 
-<br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?color=161b22&label=PROFILE%20VIEWS&query=%24.count&suffix=%20&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fjosephsojan-readme%2Fviews&style=for-the-badge&labelColor=2ECC71&logo=github&logoColor=black" height="36"/>
-<img src="https://img.shields.io/github/followers/josephsojan?style=for-the-badge&color=161b22&labelColor=2ECC71&label=FOLLOWERS&logo=github&logoColor=black" height="36"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;OpenCV+Projects;Learning+C%2B%2B+and+Python;Always+Building+Something+New" alt="Typing SVG" />
 
 </div>
 
-<br/>
+---
 
-## About
+## About Me
 
-I design and build systems end to end — from the logic underneath to the interface on top. I care less about knowing every tool and more about knowing mine deeply enough to build something real with it.
+I enjoy building practical software and continuously improving my programming skills. My interests include web development, computer vision, C/C++, Python, and software engineering. I like creating projects that solve real-world problems while learning modern development practices.
 
-**Build to Innovate.** Computer Science student, based in Ernakulam, Kerala.
+---
 
-<br/>
-
-## Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,html,css,mysql&theme=dark&perline=8"/>
-</div>
-
-<br/>
-
-## Skill Depth
-
-<sub>Self-assessed depth per language. Edit the number in the image URL to move the meter.</sub>
-
-<table>
-<tr><td width="130"><b>Python</b></td><td><img src="https://progress-bar.dev/80/?scale=100&title=&width=380&color=2ECC71&suffix=%20%25"/></td></tr>
-<tr><td><b>Java</b></td><td><img src="https://progress-bar.dev/75/?scale=100&title=&width=380&color=2ECC71&suffix=%20%25"/></td></tr>
-<tr><td><b>C++</b></td><td><img src="https://progress-bar.dev/70/?scale=100&title=&width=380&color=2ECC71&suffix=%20%25"/></td></tr>
-<tr><td><b>C</b></td><td><img src="https://progress-bar.dev/65/?scale=100&title=&width=380&color=2ECC71&suffix=%20%25"/></td></tr>
-<tr><td><b>SQL</b></td><td><img src="https://progress-bar.dev/70/?scale=100&title=&width=380&color=2ECC71&suffix=%20%25"/></td></tr>
-<tr><td><b>PHP</b></td><td><img src="https://progress-bar.dev/55/?scale=100&title=&width=380&color=2ECC71&suffix=%20%25"/></td></tr>
-<tr><td><b>HTML / CSS</b></td><td><img src="https://progress-bar.dev/60/?scale=100&title=&width=380&color=2ECC71&suffix=%20%25"/></td></tr>
-</table>
-
-<sub>To adjust: change the number right after <code>progress-bar.dev/</code> in that row, e.g. <code>progress-bar.dev/85</code>.</sub>
-
-<br/>
-
-## Currently Exploring
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,flutter,opencv&theme=dark&perline=4"/>
+### Languages
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,php,html,css,js,mysql" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Node.js;React.js;Flutter;Real-time+OpenCV;Gesture-based+hardware+control&font=JetBrains+Mono&size=16&pause=1000&color=2ECC71&center=true&vCenter=true&width=420&height=32&repeat=true"/>
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,opencv,linux" />
 
 </div>
 
-<br/>
+---
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=josephsojan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ECC71&text_color=c9d1d9&icon_color=2ECC71" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=josephsojan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=josephsojan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ECC71&text_color=c9d1d9" height="150"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josephsojan&theme=github&bg_color=0d1117&color=2ECC71&line=2ECC71&point=ffffff&hide_border=true" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=josephsojan&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ECC71&text_color=c9d1d9" height="0" width="0" alt=""/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
-<sub>Cards pull live from the GitHub contribution graph, so the green pattern above matches your actual activity. If a card renders blank on load, it's a shared-server rate limit — refresh, or fork <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> to your own Vercel instance for guaranteed uptime.</sub>
+---
 
-<br/><br/>
+## Contribution Graph
 
 <div align="center">
 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-161b22?style=for-the-badge&logo=gmail&logoColor=2ECC71" height="34"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=2ECC71" height="34"/></a>
-<a href="https://github.com/josephsojan"><img src="https://img.shields.io/badge/GITHUB-161b22?style=for-the-badge&logo=github&logoColor=2ECC71" height="34"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C7744,50:203A43,100:0F2027&height=100&section=footer"/>
+---
+
+## GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=josephsojan&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## Current Focus
+
+- Full Stack Web Development
+- OpenCV Projects
+- Software Engineering
+- Data Structures
+- C Programming
+- Python Development
+- Git & GitHub
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| Medical Portfolio | Healthcare management web application |
+| Handicraft Marketplace | E-commerce platform for artisans |
+| Spotify Gesture Controller | OpenCV hand gesture automation |
+| Restaurant Website | Bootstrap-based responsive website |
+
+---
+
+## Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=josephsojan&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/josephsojan">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/josephsojan">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:josephsojanofficial@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+
+</div>
