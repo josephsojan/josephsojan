@@ -1,123 +1,164 @@
 <div align="center">
 
-# Joseph Sojan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:06B6D4&text=Joseph%20Sojan&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-### BCA Graduate | MCA Student | Web Developer | C Programmer | OpenCV Enthusiast
+# Hi, I'm Joseph Sojan
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;OpenCV+Projects;Learning+C%2B%2B+and+Python;Always+Building+Something+New" alt="Typing SVG" />
+### BCA Graduate • MCA Student • Full Stack Developer • OpenCV Enthusiast
 
-</div>
-
----
-
-## About Me
-
-I enjoy building practical software and continuously improving my programming skills. My interests include web development, computer vision, C/C++, Python, and software engineering.
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,php,html,css,js,mysql" />
-
-### Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,opencv,linux" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;OpenCV+Projects;C+%7C+C%2B%2B+%7C+Python;Web+Development;Always+Learning+New+Technologies"/>
 
 </div>
 
 ---
 
-## GitHub Analytics
+# About Me
 
-<div align="center">
+```yaml
+name: Joseph Sojan
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josephsojan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+education:
+  - Bachelor of Computer Applications
+  - Master of Computer Applications
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=transparent&hide_border=true"/>
+role:
+  - Full Stack Developer
 
-</div>
+currently_learning:
+  - OpenCV
+  - Machine Learning
+  - Advanced Web Development
 
----
+interests:
+  - Web Development
+  - Computer Vision
+  - Software Engineering
+  - UI Design
 
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josephsojan&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=josephsojan&theme=transparent&hide_border=true"/>
-
-</div>
+goal:
+  Build useful software that solves real-world problems.
+```
 
 ---
 
-## Current Focus
+# Connect With Me
 
-- Full Stack Web Development
-- OpenCV Projects
-- Software Engineering
-- Data Structures
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+</p>
+
+---
+
+# Languages and Tools
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,javascript,typescript,php,html,css,bootstrap,tailwind,react,nodejs,nextjs,express,mysql,mongodb,postgresql,firebase,docker,git,github,linux,vscode,opencv,tensorflow,flutter,gcp,aws&titles=true"/>
+
+</p>
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Contribution Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# Current Focus
+
+- Full Stack Development
+- OpenCV
+- Artificial Intelligence
+- Machine Learning
+- Python
 - C Programming
-- Python Development
+- C++
 - Git & GitHub
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| Medical Portfolio | Healthcare management web application |
-| Handicraft Marketplace | E-commerce platform for artisans |
-| Spotify Gesture Controller | OpenCV hand gesture automation |
-| Restaurant Website | Bootstrap-based responsive website |
+| Project | Description | Technology |
+|---------|-------------|------------|
+| Medical Portfolio | Healthcare Management Website | HTML CSS PHP MySQL |
+| Handicraft Marketplace | E-Commerce Platform | PHP Bootstrap MySQL |
+| Spotify Gesture Controller | Hand Gesture Automation | Python OpenCV |
+| Restaurant Website | Responsive UI | HTML CSS Bootstrap |
 
 ---
 
-## Profile Views
+# Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
+# Snake Eating Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Quote
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=josephsojan&style=for-the-badge&color=0e75b6"/>
+> *"Code. Learn. Build. Repeat."*
 
 </div>
 
 ---
 
-## Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/josephsojan">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/josephsojan">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:josephsojanofficial@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,50:2563EB,100:0F172A"/>
 
 </div>
