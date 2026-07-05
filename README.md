@@ -12,8 +12,7 @@
 
 ## About Me
 
-I enjoy building practical software and continuously improving my programming skills. My interests include web development, computer vision, C/C++, Python, and software engineering. I like creating projects that solve real-world problems while learning modern development practices.
-
+I enjoy building practical software and continuously improving my programming skills. My interests include web development, computer vision, C/C++, Python, and software engineering.
 ---
 
 ## Tech Stack
@@ -48,7 +47,7 @@ I enjoy building practical software and continuously improving my programming sk
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=josephsojan&theme=github-compact&hide_border=true"/>
 
 </div>
 
