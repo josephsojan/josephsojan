@@ -61,7 +61,7 @@ A software developer focused on web architectures, computer vision, and building
 <div align="center">
 
 <a href="https://github.com/josephsojan"><img src="https://skillicons.dev/icons?i=github"/></a> &nbsp;
-<a href="https://linkedin.com/in/josephsojan"><img src="https://linkedin.com/in/linkedin"/></a> &nbsp;
+<a href="https://linkedin.com/in/josephsojan14"><img src="https://linkedin.com/in/linkedin"/></a> &nbsp;
 <a href="mailto:josephsojanofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
 <br><br>
