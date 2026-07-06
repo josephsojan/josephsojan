@@ -1,124 +1,68 @@
 <div align="center">
 
-# Joseph Sojan
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Joseph%20Sojan&fontAnimate=true&section=header&theme=dark" />
 
-### BCA Graduate | MCA Student | Web Developer | C Programmer | OpenCV Enthusiast
+### 🎓 BCA Graduate | 🚀 MCA Student | 💻 Full-Stack Developer & OpenCV Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;OpenCV+Projects;Learning+C%2B%2B+and+Python;Always+Building+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+with+C%2B%2B+%26+Python;Crafting+Computer+Vision+Solutions;Developing+Modern+Web+Apps" alt="Typing SVG" />
+
+---
 
 </div>
 
----
+## 📌 About Me
 
-## About Me
-
-I enjoy building practical software and continuously improving my programming skills. My interests include web development, computer vision, C/C++, Python, and software engineering.
+A software developer focused on web architectures, computer vision, and building practical, high-performance software. Currently sharpening expertise in data structures, algorithms, and advanced software engineering patterns.
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Languages
+#### Languages & Core Dev
+<img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,mysql,html,css" />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,php,html,css,js,mysql" />
-
-### Frameworks & Tools
-
+#### Frameworks & Ecosystem
 <img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,opencv,linux" />
 
 </div>
 
 ---
 
-## GitHub Analytics
+## 📊 Git Analytics & Performance
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josephsojan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+| <img height="165" src="https://github-readme-stats.vercel.app/api?username=josephsojan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> | <img height="165" src="https://streak-stats.demolab.com?user=josephsojan&theme=tokyonight&hide_border=true"/> |
+| :---: | :---: |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=transparent&hide_border=true"/>
+#### 📈 Most Used Technologies
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
 ---
 
-## Contribution Graph
+## 🚀 Featured Projects
+
+*   **Medical Portfolio** – *Healthcare management ecosystem optimized for clinical workflows.*
+*   **Handicraft Marketplace** – *Full-stack e-commerce platform dedicated to independent artisans.*
+*   **Spotify Gesture Controller** – *Computer vision automation tracking hands via OpenCV.*
+*   **Responsive Dining Portal** – *Modern, minimalist restaurant frontend utilizing Bootstrap.*
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josephsojan&theme=github-compact&hide_border=true"/>
+<a href="https://github.com/josephsojan"><img src="https://skillicons.dev/icons?i=github"/></a> &nbsp;
+<a href="https://linkedin.com/in/josephsojan"><img src="https://skillicons.dev/icons?i=linkedin"/></a> &nbsp;
+<a href="mailto:josephsojanofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
-</div>
+<br><br>
 
----
-
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=josephsojan&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-## Current Focus
-
-- Full Stack Web Development
-- OpenCV Projects
-- Software Engineering
-- Data Structures
-- C Programming
-- Python Development
-- Git & GitHub
-
----
-
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| Medical Portfolio | Healthcare management web application |
-| Handicraft Marketplace | E-commerce platform for artisans |
-| Spotify Gesture Controller | OpenCV hand gesture automation |
-| Restaurant Website | Bootstrap-based responsive website |
-
----
-
-## Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=josephsojan&style=for-the-badge&color=0e75b6"/>
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/josephsojan">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/josephsojan">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:josephsojanofficial@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=josephsojan&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS"/>
 
 </div>
