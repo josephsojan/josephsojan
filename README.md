@@ -34,14 +34,13 @@ A software developer focused on web architectures, computer vision, and building
 
 <div align="center">
 
-<!-- Swapped to a highly stable, rate-limit protected mirror instance -->
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josephsojan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-readme-stats.vercel.app/api?username=josephsojan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=josephsojan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
 #### 📈 Most Used Technologies
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats-readme-stats.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -60,9 +59,15 @@ A software developer focused on web architectures, computer vision, and building
 
 <div align="center">
 
-<a href="https://github.com/josephsojan"><img src="https://skillicons.dev/icons?i=github"/></a> &nbsp;
-<a href="https://linkedin.com/in/josephsojan14"><img src="https://linkedin.com/in/linkedin"/></a> &nbsp;
-<a href="mailto:josephsojanofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/josephsojan">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a> &nbsp;
+<a href="https://linkedin.com/in/josephsojan14">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a> &nbsp;
+<a href="mailto:josephsojanofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 <br><br>
 
