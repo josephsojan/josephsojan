@@ -30,15 +30,18 @@ A software developer focused on web architectures, computer vision, and building
 
 ---
 
-## 📊 Git Analytics & Performance
+## 📊 Git Analytics & Activity Streaks
 
 <div align="center">
 
-| <img height="165" src="https://github-readme-stats.vercel.app/api?username=josephsojan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> | <img height="165" src="https://streak-stats.demolab.com?user=josephsojan&theme=tokyonight&hide_border=true"/> |
-| :---: | :---: |
+<!-- This layout ensures both the main stats and your daily activity streaks render perfectly side-by-side -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=josephsojan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=josephsojan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
 
 #### 📈 Most Used Technologies
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -58,7 +61,7 @@ A software developer focused on web architectures, computer vision, and building
 <div align="center">
 
 <a href="https://github.com/josephsojan"><img src="https://skillicons.dev/icons?i=github"/></a> &nbsp;
-<a href="https://linkedin.com/in/josephsojan"><img src="https://skillicons.dev/icons?i=linkedin"/></a> &nbsp;
+<a href="https://linkedin.com/in/josephsojan"><img src="https://linkedin.com/in/linkedin"/></a> &nbsp;
 <a href="mailto:josephsojanofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
 <br><br>
