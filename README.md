@@ -34,14 +34,14 @@ A software developer focused on web architectures, computer vision, and building
 
 <div align="center">
 
-<!-- This layout ensures both the main stats and your daily activity streaks render perfectly side-by-side -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josephsojan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<!-- Swapped to a highly stable, rate-limit protected mirror instance -->
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josephsojan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=josephsojan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
 #### 📈 Most Used Technologies
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
