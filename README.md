@@ -52,7 +52,6 @@ A software developer focused on web architectures, computer vision, and building
 *   **Medical Portfolio** – *Healthcare management ecosystem optimized for clinical workflows.*
 *   **Handicraft Marketplace** – *Full-stack e-commerce platform dedicated to independent artisans.*
 *   **Spotify Gesture Controller** – *Computer vision automation tracking hands via OpenCV.*
-*   **Responsive Dining Portal** – *Modern, minimalist restaurant frontend utilizing Bootstrap.*
 
 ---
 
