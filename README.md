@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=JOSEPH%20SOJAN&fontSize=52&fontColor=ffffff&color=0:0f172a,50:172554,100:0f172a&stroke=38bdf8&strokeWidth=1&animation=fadeIn&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&text=JOSEPH%20SOJAN&fontSize=52&fontColor=ffffff&color=0:020617,50:0f172a,100:172554&stroke=38bdf8&strokeWidth=1&animation=fadeIn&fontAlignY=44"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%7C+MCA+Student;Computer+Vision+%26+OpenCV+Enthusiast;Building+Practical+Software+Solutions;Exploring+AI%2C+Cloud+%26+Modern+Web+Technologies" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+MCA+Student;Computer+Vision+%26+OpenCV+Enthusiast;Building+Modern+Software+Solutions;Learning+%7C+Building+%7C+Experimenting" />
 
 <br><br>
 
@@ -15,11 +15,11 @@
 </a>
 
 <a href="mailto:josephsojanofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="https://github.com/josephsojan">
-<img src="https://img.shields.io/github/followers/josephsojan?style=for-the-badge&label=Followers&color=0D1117&logo=github"/>
+<a href="https://github.com/josephsojan?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 
 <br><br>
@@ -30,223 +30,62 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hi, I'm **Joseph Sojan**.
+I'm **Joseph Sojan**, an MCA student and software developer focused on building practical, modern and user-friendly applications.
 
-I'm an **MCA student and software developer** passionate about building practical applications that combine clean interfaces, useful functionality and modern technologies.
+I enjoy working across **full-stack development, computer vision, AI and software engineering**, while continuously experimenting with new technologies and ideas.
 
-My main areas of interest include:
 
-* 🌐 Full-Stack Web Development
-* 🤖 Artificial Intelligence
-* 👁️ Computer Vision
-* 🧠 Data Structures & Algorithms
-* 🗄️ Database Systems
-* ☁️ Cloud & Deployment
-* 🐧 Linux & Developer Tools
-* 🔐 Cybersecurity
 
-I enjoy taking an idea from **problem → design → development → deployment**.
-
-```text
-                    ┌─────────────────────┐
-                    │      IDEA           │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      DESIGN         │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      DEVELOP        │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │       TEST          │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      DEPLOY         │
-                    └─────────────────────┘
-```
-
----
-
-# 🧑‍🎓 Developer Snapshot
+## ⚡ Quick Overview
 
 <div align="center">
 
-| 🎓 Education |        💻 Role       |       🔭 Focus       | 🌱 Learning |
-| :----------: | :------------------: | :------------------: | :---------: |
-|  MCA Student | Full-Stack Developer | Software Engineering |  AI & Cloud |
-
-</div>
+|      🎓     |     💻    |         🔭        |        🌱       |
+| :---------: | :-------: | :---------------: | :-------------: |
+| MCA Student | Developer | Building Projects | Always Learning |
 
 <br>
 
-<div align="center">
-
-|  💡 Interests |       🛠️ Building      |    🧠 Problem Solving   |
-| :-----------: | :---------------------: | :---------------------: |
-| Web • AI • CV | Real-world Applications | DSA • DBMS • Algorithms |
+| 🌐 Full-Stack |   🤖 AI   | 👁️ Computer Vision | ☁️ Cloud |
+| :-----------: | :-------: | :-----------------: | :------: |
+|  React • Node | Exploring |        OpenCV       | Learning |
 
 </div>
 
 ---
 
-# 🛠️ Technology Stack
-
-<div align="center">
-
-## 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js" />
-
-<br><br>
-
-## 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-
-<br><br>
-
-## ⚙️ Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,php" />
-
-<br><br>
-
-## 🗄️ Databases & Backend Services
-
-<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase" />
-
-<br><br>
-
-## 👁️ AI & Computer Vision
-
-<img src="https://skillicons.dev/icons?i=python,opencv" />
-
-<br><br>
-
-## 🔧 Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
+## 🛠️ Tech Stack
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🏥 Medical Portfolio
+### 💻 Languages
 
-A healthcare-oriented management ecosystem designed around organized clinical workflows and a modern user experience.
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js&perline=6"/>
 
-**Focus**
+<br><br>
 
-`Web Development`
-`UI/UX`
-`Database`
+### 🌐 Web
 
-**Status:** 🟢 Development
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs&perline=5"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎨 Handicraft Marketplace
+### 🗄️ Database & Backend
 
-A full-stack e-commerce platform designed to connect independent artisans with customers.
+<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&perline=5"/>
 
-**Focus**
+<br><br>
 
-`Full Stack`
-`E-Commerce`
-`Database`
+### 🔧 Tools & Technologies
 
-**Status:** 🟢 Development
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎵 Spotify Gesture Controller
-
-A computer-vision based application that allows music playback to be controlled using hand gestures.
-
-**Focus**
-
-`Python`
-`OpenCV`
-`Computer Vision`
-
-**Status:** 🟢 Experimenting
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📰 Drac News
-
-A modern news application built with React and a cloud-backed database architecture.
-
-**Focus**
-
-`React`
-`Supabase`
-`JavaScript`
-
-**Status:** 🟢 Development
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🏠 UniStay
-
-A student accommodation management platform designed to simplify housing, plans and subscription management.
-
-**Focus**
-
-`Node.js`
-`Express`
-`MySQL`
-
-**Status:** 🟡 Development
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🖼️ La Frames India
-
-A tourism-focused web experience showcasing destinations and visual frames from India.
-
-**Focus**
-
-`HTML`
-`CSS`
-`JavaScript`
-
-**Status:** 🟢 Available
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,opencv&perline=5"/>
 
 </td>
 
@@ -255,65 +94,154 @@ A tourism-focused web experience showcasing destinations and visual frames from 
 
 ---
 
-# 📌 What I'm Currently Working On
+## 🚀 Featured Projects
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  🌐 Full-Stack Web Development                             │
-│     Building modern applications with React & Node.js      │
-│                                                            │
-│  🤖 Artificial Intelligence                                │
-│     Exploring AI concepts and practical applications       │
-│                                                            │
-│  👁️ Computer Vision                                        │
-│     Developing OpenCV-based computer vision projects        │
-│                                                            │
-│  🧠 Data Structures & Algorithms                           │
-│     Improving problem-solving and algorithmic thinking      │
-│                                                            │
-│  ☁️ Cloud & Deployment                                     │
-│     Learning modern deployment and cloud technologies      │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏥 Medical Portfolio
+
+Healthcare management ecosystem focused on streamlined clinical workflows.
+
+`Web` `Database` `UI/UX`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Handicraft Marketplace
+
+Full-stack marketplace connecting artisans and customers.
+
+`Full Stack` `E-Commerce`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎵 Spotify Gesture Controller
+
+Control music playback using hand gestures and computer vision.
+
+`Python` `OpenCV`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📰 Drac News
+
+Modern React-based news platform with cloud-backed data.
+
+`React` `Supabase`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏠 UniStay
+
+Student accommodation management platform.
+
+`Node.js` `Express` `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🇮🇳 La Frames India
+
+Visual tourism experience showcasing destinations across India.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📚 Currently Learning
+## 🔥 What I'm Building
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-<img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<table>
+<tr>
+
+<td align="center" width="200">
+
+### 🌐
+
+**Web Apps**
+
+Modern full-stack applications
+
+</td>
+
+<td align="center" width="200">
+
+### 🤖
+
+**AI Projects**
+
+Practical AI experiments
+
+</td>
+
+<td align="center" width="200">
+
+### 👁️
+
+**Computer Vision**
+
+OpenCV-based solutions
+
+</td>
+
+<td align="center" width="200">
+
+### 🚀
+
+**Experiments**
+
+New ideas & technologies
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🧠 Core Computer Science
+## 📚 Currently Exploring
 
 <div align="center">
 
-| 🧩 Subject           | 🔍 Focus                                                 |
-| :------------------- | :------------------------------------------------------- |
-| Data Structures      | Arrays • Linked Lists • Stacks • Queues • Trees • Graphs |
-| Algorithms           | Searching • Sorting • Recursion • Complexity             |
-| DBMS                 | SQL • Normalization • Transactions • Constraints         |
-| OOP                  | Classes • Objects • Inheritance • Polymorphism           |
-| Software Engineering | SDLC • Design • Testing • Architecture                   |
-| Computer Networks    | Networking Fundamentals • Protocols                      |
-| Operating Systems    | Processes • Scheduling • Memory                          |
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -329,17 +257,17 @@ A tourism-focused web experience showcasing destinations and visual frames from 
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josephsojan&theme=github-compact&hide_border=true&area=true&custom_title=Joseph%20Sojan%20-%20Contribution%20Activity" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=josephsojan&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="96%"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -349,103 +277,112 @@ A tourism-focused web experience showcasing destinations and visual frames from 
 
 ---
 
-# 📊 Repository Insights
-
-<div align="center">
-
-<a href="https://github.com/josephsojan?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
-</a>
-
-<a href="https://github.com/josephsojan?tab=stars">
-<img src="https://img.shields.io/badge/Starred-Projects-0D1117?style=for-the-badge&logo=github&logoColor=FFD700"/>
-</a>
-
-<a href="https://github.com/josephsojan?tab=followers">
-<img src="https://img.shields.io/badge/Followers-Connect-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| Goal                                          | Progress |
-| :-------------------------------------------- | :------: |
-| 🚀 Build production-ready applications        |    🔄    |
-| 🌐 Improve Full-Stack skills                  |    🔄    |
-| 🤖 Build practical AI projects                |    🔄    |
-| 👁️ Develop advanced Computer Vision projects |    🔄    |
-| ☁️ Learn Cloud & DevOps                       |    🔄    |
-| 🔐 Explore Cybersecurity                      |    🔄    |
-| 🧠 Strengthen DSA                             |    🔄    |
-| 💼 Build a strong developer portfolio         |    🔄    |
-
-</div>
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-```text
-        ┌───────────────────────────────────┐
-        │                                   │
-        │       LEARN → BUILD → TEST        │
-        │              ↓                    │
-        │          ITERATE → SHARE          │
-        │              ↓                    │
-        │            IMPROVE                │
-        │                                   │
-        └───────────────────────────────────┘
-```
-
-> **"Don't just learn technology. Build something with it."**
-
-</div>
-
----
-
-# 🤝 Let's Connect
+## 📌 Highlights
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="230">
+<td align="center" width="220">
 
-<a href="https://github.com/josephsojan">
+🚀
 
-<img src="https://skillicons.dev/icons?i=github" width="70"/>
+### Building
 
-<br><br>
-
-<strong>GitHub</strong>
-
-<br>
-
-<sub>Projects • Code • Experiments</sub>
-
-</a>
-
-<br><br>
+Real-world software projects
 
 </td>
 
-<td align="center" width="230">
+<td align="center" width="220">
 
-<a href="https://linkedin.com/in/josephsojan14">
+🧠
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="70"/>
+### Learning
+
+Modern technologies
+
+</td>
+
+<td align="center" width="220">
+
+🔬
+
+### Exploring
+
+AI & Computer Vision
+
+</td>
+
+<td align="center" width="220">
+
+🌎
+
+### Growing
+
+As a developer
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 2026 Focus
+
+<div align="center">
+
+`Full-Stack Development`   `AI`   `Computer Vision`   `Cloud`   `Open Source`
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Build → Learn → Experiment → Improve**
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="220">
+
+<a href="https://github.com/josephsojan">
+
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
 
 <br><br>
 
-<strong>LinkedIn</strong>
+<b>GitHub</b>
+
+<br>
+
+<sub>Code & Projects</sub>
+
+</a>
+
+</td>
+
+<td align="center" width="220">
+
+<a href="https://linkedin.com/in/josephsojan14">
+
+<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
+
+<br><br>
+
+<b>LinkedIn</b>
 
 <br>
 
@@ -453,27 +390,23 @@ A tourism-focused web experience showcasing destinations and visual frames from 
 
 </a>
 
-<br><br>
-
 </td>
 
-<td align="center" width="230">
+<td align="center" width="220">
 
 <a href="mailto:josephsojanofficial@gmail.com">
 
-<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="65"/>
 
 <br><br>
 
-<strong>Email</strong>
+<b>Email</b>
 
 <br>
 
-<sub>Let's Talk</sub>
+<sub>Get In Touch</sub>
 
 </a>
-
-<br><br>
 
 </td>
 
@@ -484,13 +417,13 @@ A tourism-focused web experience showcasing destinations and visual frames from 
 
 <a href="https://github.com/josephsojan">
 
-<img src="https://img.shields.io/badge/VIEW%20MY%20PROJECTS-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 
 </a>
 
 <a href="https://linkedin.com/in/josephsojan14">
 
-<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 
 </a>
 
@@ -500,14 +433,14 @@ A tourism-focused web experience showcasing destinations and visual frames from 
 
 <div align="center">
 
-### ⚡ Build. Learn. Experiment. Repeat.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0D1117&text=THANKS%20FOR%20VISITING&fontColor=38BDF8&fontSize=24&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0D1117&text=%3E%20BUILD.%20LEARN.%20REPEAT.&fontColor=38BDF8&fontSize=23&animation=fadeIn"/>
 
 <br><br>
 
-<sub>© 2026 Joseph Sojan • Built with curiosity & code</sub>
+<img src="https://komarev.com/ghpvc/?username=josephsojan&style=flat-square&color=58A6FF&label=THANKS+FOR+VISITING"/>
+
+<br><br>
+
+<sub>© 2026 Joseph Sojan</sub>
 
 </div>
