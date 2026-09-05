@@ -37,18 +37,7 @@ MCA student and full-stack developer building web applications, with growing int
 
 <br>
 
-### GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=josephsojan&show_icons=true&hide_border=true&theme=github_dark&count_private=false" height="165"/>
-<img src="https://streak-stats.demolab.com?user=josephsojan&theme=github-dark-blue&hide_border=true" height="165"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsojan&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
-
-</div>
 
 <br>
 
