@@ -28,7 +28,7 @@ MCA student and full-stack developer building web applications, with growing int
 
 ### Projects
 
-| | |
+
 |---|---|
 | **UniStay** — student accommodation platform | `Node.js` `Express` `MySQL` |
 | **La Frames India** — visual tourism site | `HTML` `CSS` `JavaScript` |
